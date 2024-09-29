@@ -1,0 +1,16 @@
+.overlay {
+    position: absolute;
+    top: 0.7%; /* Adjust the top position as needed */
+    left: 6.8%;
+    transform: translateX(-50%);
+    background-color: black; /* Black background */
+    color: white; /* Text color */
+    padding: 20px 3% 1% 100%; /* Add some padding */
+    border-radius: 5px; /* Optional: rounded corners */
+    z-index: 10; /* Ensure the overlay is on top */
+    text-align: center; /* Center the text */
+  }
+  
+  .text {
+    font-size: 1.25rem; /* Adjust font size as needed */
+  }
