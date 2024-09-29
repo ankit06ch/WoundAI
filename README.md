@@ -31,4 +31,4 @@ Welcome to WoundAI! This innovative application harnesses the power of voice-to-
 This project is licensed under the MIT License.
 
 Thank you for checking out WoundAI (Submission to HACK GT)!
-Feel free to modify any section to better fit your project or personal style! Let me know if you need further assistance.
+
